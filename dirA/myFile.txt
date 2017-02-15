@@ -1,3 +1,6 @@
 This text was in the initial commit of this file.
 
 This change is in the commit that was tagged with "firstTag".
+
+This line was added after "firstTag"
+

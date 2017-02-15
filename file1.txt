@@ -5,3 +5,5 @@ The second commit included this text.
 
 This line was added with the commit that was tagged "firstTag".
 
+This line was added after the "firstTag".
+
