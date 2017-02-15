@@ -2,3 +2,6 @@ This is a plain text file.
 The text up to this line was included in the initial commit of this file.
 
 The second commit included this text.
+
+This line was added with the commit that was tagged "firstTag".
+
